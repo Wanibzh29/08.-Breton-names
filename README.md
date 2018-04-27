@@ -37,3 +37,5 @@ You will find the list of books and studies used for doing this work:
 ...
 
 https://nameberry.com/lists
+
+http://www.randomnames.com/all-girls-names.asp
