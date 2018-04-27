@@ -84,242 +84,370 @@
 	
 
 	"E:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Efik
+2. Ekajuk
+3. Elameg
+4. Erza
+5. Esperanteg
+6. Estoneg
+7. Euskareg
+8. Ewe
+9. Ewondo
 
 	"F:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Faeroeg
+2. Fang
+3. Fanti
+4. Fidjieg
+5. Filipineg
+6. Finneg
+7. Fon
+8. Frankoprovañseg
+9. Frioulaneg
+10. Frizeg
+11. Fula
 	
 	"G:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Ga
+2. Gagaouzeg
+3. Galizeg
+4. Galleg
+5. Ganda
+6. Gayo
+7. Gbaya
+8. Gezeg
+9. Gilberteg
+10. Gondi
+11. Gorontalo
+12. GoteggothiqueGothic
+13. Grebo
+14. Gresianeg
+15. Gresianegmodern
+16. Greunlandeg
+17. Guarani
+18. Gujaratigoudjrati
 	
 	"H:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Haida
+2. Haitieg
+3. Haousa
+4. Hawaieg
+5. Hebraeg
+6. Henc’hresianeg (gresianeg klasel)
+7. Henegipteg
+8. Herero
+9. Hiligaynon
+10. Himachali
+11. Hindi
+12. Hirimotu
+13. Hmong
+14. Hungareg
+15. Hupa
 	
 	"I:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Iban
+2. Ibibio
+3. Ido
+4. Igbo
+5. Ijo
+6. Indonezeg
+7. Ingoucheg
+8. Interlingua
+9. Inuktitut
+10. Inupiaq
+11. Islandeg
+12. Italianeg
+13. Iwerzhoneg
+14. Izelsorabeg
 	
 	"J:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 	
+1. Japaneg
+2. Javaneg
+3. Jorjianeg
 	
 	"K:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Kabardian
+2. Kabileg
+3. Kachin
+4. Kachoubeg
+5. Kalmouk
+6. Kamba
+7. Kanareg
+8. Kanouri
+9. Karakalpak
+10. Karatchay-balkar
+11. Karen
+12. Karibeg
+13. Kashmiri
+14. Kastilhaneg
+15. Katalaneg
+16. Kawi
+17. Kazak
+18. Kbdkabardeg
+19. Kechuaeg
+20. Kembraeg
+21. Kerneveureg
+22. Khasi
+23. Khmer
+24. Khotaneg
+25. Kikuyu
+26. Kimbundu
+27. Kinyarwanda
+28. Kirgiz
+29. Klingon
+30. Klingon
+31. Komieg
+32. Kongo
+33. Konkani
+34. Kopteg
+35. Koreaneg
+36. Korseg
+37. Kosrae
+38. Koumyk
+39. Kpelle
+40. Kreoleg
+41. Kricree
+42. Kroateg
+43. Krou
+44. Kurdeg
+45. Kurukh
+46. Kutenai
+47. Kwanyama
 	
 	"L:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Ladineg
+2. Ladino
+3. Lahnda
+4. Lak
+5. Lamba
+6. Laoseglao
+7. Latin
+8. Latvieg
+9. Lezgi
+10. Lingala
+11. Lituaneg
+12. Lojban
+13. Lozi
+14. Luba-katanga
+15. Luba-lulua
+16. Luiseno
+17. Luksembourgeg
+18. Lunda
+19. Luo
+20. Lushai
 
 	"M:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Magahi
+2. Maithili
+3. Makasar
+4. Makedoneg
+5. Malay
+6. Malayalam
+7. Malayseg
+8. Maldiveg
+9. Malgacheg
+10. Malteg
+11. Manaveg
+12. Manchou
+13. Mandar
+14. Mandingo
+15. Manipuri
+16. Maori
+17. Marathi
+18. Marshall
+19. Marwari
+20. Masai
+21. Mende
+22. Mi’kmaq
+23. Minangkabau
+24. Mohawk
+25. Moksha
+26. Mongo
+27. Mongoleg
+28. More
+29. Muskogi
 	
 	"N:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 	
+1. Nahuatl
+2. Naurueg
+3. Navac’ho
+4. NdebeleanNorzh
+5. NdebelearSu
+6. Ndonga
+7. Nederlandeg
+8. Nepaleg
+9. Newari
+10. Nias
+11. Niue
+12. Nogay
+13. Norvegeg
+14. Norvegegbokmål
+15. Norveveg
+16. Nyamwezi
+17. Nyankole
+18. Nyoro
+19. Nzima
 	
 	"O:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Ojibwa
+2. Okitaneg
+3. Oriya
+4. Oromogalla
+5. Osage
+6. Oseteg
+7. Oudmourteg
+8. Ouigoureg
+9. Ourdou
+10. Ouzbekeg
 	
 	"P:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Pachto
+2. Pahlavi
+3. Palau
+4. Pali
+5. Pampanga
+6. Pangasinan
+7. Papiamento
+8. Perseg
+9. Persian
+10. Pohnpei
+11. Poloneg
+12. Ponapeg
+13. Portugaleg
+14. Punjabi
 	
 	"R:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 	
+1. Rajasthani
+2. Rapanui
+3. Rarotonga
+4. Romañcheg
+5. Romanieg
+6. Roumaneg
+7. Routoul
+8. Rundi
+9. Rusianeg	
 	
 	"S:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 	
+1. Sámi an Norzh
+2. Sámi Inari
+3. Sámi Skolt
+4. Samoan
+5. Sandawe
+6. Sango
+7. Sanskriteg
+8. Santali
+9. Saozneg
+10. Sardeg
+11. Sasak
+12. Selkoup
+13. Serb-kroateg
+14. Serb-kroateg
+15. Serbeg
+16. Serer
+17. Shan
+18. Shona
+19. Sidamo
+20. Siksika
+21. Siksika
+22. Sinaeg
+23. Sindhi
+24. Singhaleg
+25. Sintoeg
+26. Sirieg
+27. Skoseg
+28. Slavoneg iliz
+29. Slovakeg
+30. Sloveneg
+31. Sogdieg
+32. Somali
+33. Songhai
+34. Soninke
+35. Sotho an Norzh
+36. Sotho ar Su
+37. Sousou
+38. Spagnoleg
+39. Sukuma
+40. Sumereg
+41. Sundaneg
+42. Svedeg
+43. Swahili
+44. Swazi	
 
 	"T:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Tabasaran
+2. Tadjik
+3. Tagalog
+4. Tahitianeg
+5. Tamacheg
+6. Tamileg
+7. Tatar
+8. Tatar Krimea
+9. Tchekeg
+10. Tchetcheneg
+11. Tchouvatch
+12. Telougou
+13. Temne
+14. Tereno
+15. Tetum
+16. Thai
+17. Tibetaneg
+18. Tigreaneg
+19. Tigrigna
+20. Tinglit
+21. Tiv
+22. Tivi
+23. Tokelau
+24. Tokpisin
+25. Tonga
+26. Tonga
+27. Touva
+28. Troatueg
+29. Tsakhour
+30. Tsimshian
+31. Tsonga
+32. Tswana
+33. Tumbuka
+34. Turkeg
+35. Turkmeneg
+36. Tuvalu
+37. Twi 
 	
 	"U:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Uhelsorabeg
+2. Ukraineg
+3. Umbundu
 
 	"V:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Vai
+2. Venda
+3. Vietnameg
+4. Volapük
+5. Votyakeg
 	
 	"W:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Walamo
+2. Washo
+3. Wolof
+
+	"X:"
+1. Xhosa
 
 	"Y:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Yao
+2. Yapeg
+3. Yezharsinoù
+6. Yiddish
+5. Yiddish(yuzev-alamaneg)
+4. YiSichuan
+7. Yorouba
+8. Yourakeg
+9. Yuzev-arabeg
+10. Yuzev-perseg
 	
 	"Z:"
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-	
+1. Zande
+2. Zapoteg
+3. Zenaga
+4. Zhuang
+5. Zouloueg
+6. Zuni
