@@ -64,10 +64,12 @@
 6. Cherokee
 7. Cheyenne
 8. Chibcha
-9. Chipewyan
-10. Choktaw
-11. Chuuk 
-	
+9. Chichewa
+10. Chichewa
+11. Chipewyan
+12. chmmarieg
+13. Choktaw
+14. Chuuk
 	
 	"D:"
 1. Dakota
@@ -98,14 +100,15 @@
 1. Faeroeg
 2. Fang
 3. Fanti
-4. Fidjieg
-5. Filipineg
-6. Finneg
-7. Fon
-8. Frankoprovañseg
-9. Frioulaneg
-10. Frizeg
-11. Fula
+4. Farsi
+5. Fidjieg
+6. Filipineg
+7. Finneg
+8. Fon
+9. Frankoprovañseg
+10. Frioulaneg
+11. Frizeg
+12. Fula
 	
 	"G:"
 1. Ga
@@ -120,12 +123,13 @@
 10. Gondi
 11. Gorontalo
 12. GoteggothiqueGothic
-13. Grebo
-14. Gresianeg
-15. Gresianegmodern
-16. Greunlandeg
-17. Guarani
-18. Gujaratigoudjrati
+13. Gouezeleg Bro-Skos
+14. Grebo
+15. Gresianeg
+16. Gresianegmodern
+17. Greunlandeg
+18. Guarani
+19. Gujaratigoudjrati
 	
 	"H:"
 1. Haida
@@ -135,14 +139,16 @@
 5. Hebraeg
 6. Henc’hresianeg (gresianeg klasel)
 7. Henegipteg
-8. Herero
-9. Hiligaynon
-10. Himachali
-11. Hindi
-12. Hirimotu
-13. Hmong
-14. Hungareg
-15. Hupa
+8. henslaveg
+9. henvulgareg
+10. Herero
+11. Hiligaynon
+12. Himachali
+13. Hindi
+14. Hirimotu
+15. Hmong
+16. Hungareg
+17. Hupa
 	
 	"I:"
 1. Iban
@@ -383,34 +389,37 @@
 7. Tatar
 8. Tatar Krimea
 9. Tchekeg
-10. Tchetcheneg
-11. Tchouvatch
-12. Telougou
-13. Temne
-14. Tereno
-15. Tetum
-16. Thai
-17. Tibetaneg
-18. Tigreaneg
-19. Tigrigna
-20. Tinglit
-21. Tiv
-22. Tivi
-23. Tokelau
-24. Tokpisin
-25. Tonga
-26. Tonga
-27. Touva
-28. Troatueg
-29. Tsakhour
-30. Tsimshian
-31. Tsonga
-32. Tswana
-33. Tumbuka
-34. Turkeg
-35. Turkmeneg
-36. Tuvalu
-37. Twi 
+10. tcheremiseg
+11. tcherkeseg
+12. Tchetcheneg
+13. Tchouvatch
+14. Telougou
+15. Temne
+16. Tereno
+17. Tetum
+18. Thai
+19. Tibetaneg
+20. Tigreaneg
+21. Tigrigna
+22. Tinglit
+23. Tiv
+24. Tivi
+25. Tokelau
+26. Tokpisin
+27. Tonga
+28. Tonga
+29. Touva
+30. Troatueg
+31. Tsakhour
+32. Tsimshian
+33. Tsonga
+34. Tswana
+35. Tumbuka
+36. Turkeg
+37. Turkmeneg
+38. Tuvalu
+39. Twi
+
 	
 	"U:"
 1. Uhelsorabeg
