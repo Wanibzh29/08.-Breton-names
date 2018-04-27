@@ -35,3 +35,5 @@ You will find the list of books and studies used for doing this work:
 "Ur Lévrad lesanùeu a Vro-Gwened", Mikael Madeg.
 
 ...
+
+https://nameberry.com/lists
