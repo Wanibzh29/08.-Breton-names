@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- This list contains names/words with specific casing - and specific to Breton only -->
-work based on books and studies:
-- Roll anvioù bihan, Public Office for Breton Language.
-- Grand choix de prénoms betons, Gwennole Le Menn, éditions breiz, 1982.
-- Prénoms Bretons, Gilles et Bleuzen de Pontavice, éditions Ouest-France, 2011.
-- Anoiou badiziant Bro Leon, M. Madeg, P. Pondaven, Y. Riou, 2006.
-- Dictionnaire des prénoms celtiques, Albert Deshayes, Le chasse marée/Ar men, 2000.
-Feminin names are marked by "°" you will find them in a list before the masculin ones.
+This symbol means the name is feminine "°".
+This symbol means the name is masculine "*".
+This symbol means the name could be feminin and masculin "°/*".
 <ignore_list>
 	"A:"
-1. <name>Abel</name>
+1. <name>Abel°/*</name>
 2. <name>Aanor</name>
 3. <name>Aaron</name>
 4. <name>Abelard</name>
