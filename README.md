@@ -34,6 +34,13 @@ You will find the list of books and studies used for doing this work:
 
 "Ur Lévrad lesanùeu a Vro-Gwened", Mikael Madeg.
 
+-- Roll anvioù bihan, Public Office for Breton Language.
++This symbol means the name is masculine "*".
+-- Grand choix de prénoms betons, Gwennole Le Menn, éditions breiz, 1982.
++This symbol means the name could be feminin and masculin "°/*".
+-- Prénoms Bretons, Gilles et Bleuzen de Pontavice, éditions Ouest-France, 2011.
+-- Anoiou badiziant Bro Leon, M. Madeg, P. Pondaven, Y. Riou, 2006.
+-- Dictionnaire des prénoms celtiques, Albert Deshayes, Le chasse marée/Ar men, 2000.
 ...
 
 https://nameberry.com/lists
