@@ -2,6 +2,12 @@
 Here you will found out severals list of Breton names.
 This work is based on severals books and studies, and is still in progress.
 
+This symbol means the name is feminine "♀".
+
+This symbol means the name is masculine "♂".
+
+This symbol means the name could be feminin and masculin "◊".
+
 You will find the list of books and studies used for doing this work:
 
 "Dictionnaire des noms de famille bretons", Albert Deshayes.
@@ -35,12 +41,15 @@ You will find the list of books and studies used for doing this work:
 "Ur Lévrad lesanùeu a Vro-Gwened", Mikael Madeg.
 
 -- Roll anvioù bihan, Public Office for Breton Language.
-+This symbol means the name is masculine "*".
+
 -- Grand choix de prénoms betons, Gwennole Le Menn, éditions breiz, 1982.
-+This symbol means the name could be feminin and masculin "°/*".
+
 -- Prénoms Bretons, Gilles et Bleuzen de Pontavice, éditions Ouest-France, 2011.
+
 -- Anoiou badiziant Bro Leon, M. Madeg, P. Pondaven, Y. Riou, 2006.
+
 -- Dictionnaire des prénoms celtiques, Albert Deshayes, Le chasse marée/Ar men, 2000.
+
 ...
 
 https://nameberry.com/lists
