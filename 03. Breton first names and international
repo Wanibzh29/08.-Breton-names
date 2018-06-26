@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- This list contains names/words with specific casing - and specific to Breton only -->
-Feminin names are marked by "°" you will find them in a list before the masculin ones.
+This symbol means the name is feminine "♀".
+This symbol means the name is masculine "♂".
+This symbol means the name could be feminin and masculin "◊".
 <ignore_list>
 	"A:"
 1. <name>Aela</name>
@@ -3220,4 +3222,3 @@ Feminin names are marked by "°" you will find them in a list before the masculi
 16. <name>Zoie</name>
 17. <name>Zuri</name>
 </ignore_list>
-	
