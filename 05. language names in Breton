@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This list contains names/words with specific casing - and specific to Breton only -->
+This symbol means the name is feminine "♀".
+This symbol means the name is masculine "♂".
+This symbol means the name could be feminin and masculin "◊".
+<ignore_list>
 	"A:"
 1. Abkhazeg
 2. Achineg
