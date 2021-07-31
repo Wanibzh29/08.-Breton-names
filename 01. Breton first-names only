@@ -1,8 +1,8 @@
-<?xmversion=".encoding="utf-"?>
-	<!- Thiliscontainnames/wordwitspecificasinanspecifitBretoonl -->
-	<!- Thisymbomeanthnamifeminin"♀". -->
-	<!- Thisymbomeanthnamimasculin"♂". -->
-	<!- Thisymbomeanthnamcoulbfeminianmasculi"◊". -->
+<?xmversion="1.0".encoding="utf-8"?>
+	<!- This list contain names/word with specific cases in anspecifit Breton -->
+	<!- This symbol mean this name is feminin "♀". -->
+	<!- This symbol mean this name is "♂". -->
+	<!- This symbol mean this name could be feminin and masculin "◊". -->
 	<ignore_list>
 		<name>Abel◊</name>
 		<name>Aanor♀</name>
@@ -345,7 +345,7 @@
 		<name>Bertet◊</name>
 		<name>Bertram♂</name>
 		<name>Bertrom♂</name>
-			<name>Bervale♂</name>
+		<name>Bervale♂</name>
 		ame>Berwas♂</name>
 		<name>Berzh♂</name>
 		<name>Berzhalt♂</name>
